@@ -11,3 +11,4 @@ else
 fi
 
 #checking git version
+#version 1.2
