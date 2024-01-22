@@ -10,3 +10,4 @@ else
 	echo "IT is greater than 10"
 fi
 
+#checking git version
